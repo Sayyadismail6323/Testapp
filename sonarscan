@@ -14,7 +14,7 @@ pipeline {
     }
   stages{
      
-    stage('SCM Checkout'){
+    stage('SCM Checkout check out zenkinms'){
 	steps {
         script {
       def scmVars = checkout([
