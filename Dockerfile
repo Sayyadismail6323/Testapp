@@ -9,3 +9,4 @@ ENTRYPOINT ["java","-jar","app.jar"]
 EXPOSE 8080
 9618821043
 ismail going to home with the vegitables bag
+jermiah joined for the online class
