@@ -1,4 +1,9 @@
-﻿helo wold i am ismail 6323 i am looking at the classes
+﻿money makes manythings
+hello robot 2.0
+
+
+
+helo wold i am ismail 6323 i am looking at the classes
 hello ...add o mumbai ...
 automation...
 version control
