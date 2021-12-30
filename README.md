@@ -1,4 +1,4 @@
-﻿money makes manythings
+﻿money makes manythings but ismail is a statisc one 
 hello robot 2.0
 
 
