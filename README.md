@@ -1,4 +1,11 @@
-﻿helo wold i am ismail 6323 i am looking at the classes
+﻿atadu directed by trivikram
+music mani sharma
+money makes manythings but ismail is a statisc one 
+hello robot 2.0
+
+
+
+helo wold i am ismail 6323 i am looking at the classes
 hello ...add o mumbai ...
 automation...
 version control
@@ -154,3 +161,5 @@ chari bhai
 jerimiah anna..12456789
 hello world 2.o
 helloo mumbai world
+i ate pan cake with honey
+
